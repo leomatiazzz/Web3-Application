@@ -1,4 +1,4 @@
-** CLIQUE NA PASTA ZIP PARA VISUALIZAR TUDO **
+***CLIQUE NA PASTA ZIP PARA VISUALIZAR TUDO***
 
 O código faz parte de uma aplicação feita no Remix IDE (https://remix.ethereum.org/). Este contrato DonateCrypto é uma aplicação inteligente e direta de crowdfunding descentralizado (doações em cripto) usando Solidity. Abaixo vai um comentário mais completo sobre o que ele faz e pontos positivos:
 
